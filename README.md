@@ -1,7 +1,7 @@
 
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/337bb215-8833-4653-b570-93c443bd9c11"
+    src=""
     width="200"
     alt="Threat Hunt Cover Image"
   />
